@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parque41</string>
+    <string name="actualizar">actualizar</string>
+    <string name="buscar">buscar</string>
+    <string name="insertar">insertar</string>
+    <string name="borrar">borrar</string>
+</resources>
